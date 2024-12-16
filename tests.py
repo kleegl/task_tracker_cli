@@ -3,8 +3,7 @@ import unittest
 
 class TestCli(unittest.TestCase):
     def test_add_func(self):
-        print("qeqwew")
-        self.assertEqual("qwe", "qwe")
+        pass
 
 
 if __name__ == '__main__':
