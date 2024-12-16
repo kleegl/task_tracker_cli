@@ -1,11 +1,11 @@
 # Task Tracker CLI
 
 ## Использование
-`cli.py [-h] {add,update,delete,mark-in-progress,mark-done,list,in-progress,done,todo} ...`
+`cli.py [-h] {add, update, delete, mark-in-progress, mark-done, list, in-progress, done, todo} ...`
 
 ### Позиционные аргументы:
 
-- `{add,update,delete,mark-in-progress,mark-done,list,in-progress,done,todo}`
+- `{add, update, delete, mark-in-progress, mark-done, list, in-progress, done, todo}`
   - `add`: Добавить задачу
   - `update`: Обновить задачу
   - `delete`: Удалить задачу
@@ -50,3 +50,5 @@
   "createdAt": "2023-01-01T00:00:00Z",
   "updatedAt": "2023-01-01T00:00:00Z"
 }
+
+https://roadmap.sh/projects/task-tracker
